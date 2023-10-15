@@ -55,7 +55,6 @@ bool Solutions::increaseScore(int score[], int size)
     return increase;
 }
 
-
 bool Solutions::oddNumb(int a)
 {
     if (a % 2 == 0)
@@ -67,3 +66,9 @@ bool Solutions::oddNumb(int a)
     }
 }
 
+string djikstraAlgo()
+{
+    // shortest path by using djikstra Algorithm 
+    // Graph Algo
+
+}

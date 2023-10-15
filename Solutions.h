@@ -10,5 +10,8 @@ public:
 	bool increaseScore(int scores[], int size);
 
 	bool oddNumb(int a);
+
+	// learning djikstra algo
+	string djikstraAlgo(vector<int> &edge, int vsize, int startv, int endv);
 };
 
